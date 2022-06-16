@@ -1,0 +1,16 @@
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.AssemblyReference.cache
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.SuggestedBindingRedirects.cache
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+D:\Coding_Training\BorntoDev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
